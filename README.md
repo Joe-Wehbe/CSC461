@@ -1,2 +1,2 @@
 # CSC461
-Projects of the Introduction to Machine Learning course
+Projects of the Introduction to Machine Learning course. 
